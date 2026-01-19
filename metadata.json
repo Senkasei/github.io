@@ -1,0 +1,7 @@
+{
+  "name": "Aqua Beat",
+  "description": "A fluid sonic odyssey where high frequencies sculpt crystal landscapes. Experience your music as a liquid voyage of light and rhythm.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
